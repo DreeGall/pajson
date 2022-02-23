@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "pajson"
+  project_description: "Python cli/package for partitioning of large JSON files"
+  organization: "dreegall"
+  license: "MIT"
+  minimal_python_version: 3.7
+  github_name: "dreegall"
+  email: "hello@dreegall.com"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "cli"
